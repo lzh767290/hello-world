@@ -1,2 +1,4 @@
 ？php
-phpinfo（）;
+phpinfo（）
+新加33333
+4444
